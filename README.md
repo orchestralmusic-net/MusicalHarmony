@@ -9,4 +9,5 @@ The current version of the program is 1.1., created on 2012-04-05.
 
 ### Migration of sources ###
 Sources will be migrated here. Actually just download available:
+
 http://code.google.com/p/musical-harmony/downloads/list
