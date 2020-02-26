@@ -11,4 +11,4 @@ The whole program was developed in Netbeans IDE. You can download the whole Netb
 You can download the file containing translations in the current version from this repository. Unpack the files and open them in a text editor. Write the translation on the right side of every line (after the "=" symbol).
 
 ### Current version ###
-The current version of the program is 1.1., created on 2012-04-05.
+The current version of the program is 1.1., created on 2020-02-26.
